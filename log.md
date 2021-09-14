@@ -12,3 +12,9 @@
 **Thoughts**: Best way to scope the css is definetly the Modules the other methods are not too scalable and they mess up the component code.
 
 
+
+### Day 3: Sept 14, Tuesday
+
+**Today's Progress**: Built a new basic project to using a different method to continue exploring React and sharpen my skills.
+
+**Thoughts**: At this stage I have only worked with props, they work just fine but It comes an issue if you have many components, there's got to be an easier way than moving the data up two or three components and not be global scope.
