@@ -18,3 +18,10 @@
 **Today's Progress**: Built a new basic project to using a different method to continue exploring React and sharpen my skills.
 
 **Thoughts**: At this stage I have only worked with props, they work just fine but It comes an issue if you have many components, there's got to be an easier way than moving the data up two or three components and not be global scope.
+
+
+### Day 4: Sept 15, Wedenesday
+
+**Today's Progress**: Continued building and optimizing my scrapers with automated tests and bug detection.
+
+**Thoughts**: Collection has begun for some of the scrapers towards my ML project, however I am a bit struglling with some of the scrapers due to firewalls on the websites and their lack of considering public API's.
