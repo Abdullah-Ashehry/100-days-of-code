@@ -25,3 +25,10 @@
 **Today's Progress**: Continued building and optimizing my scrapers with automated tests and bug detection.
 
 **Thoughts**: Collection has begun for some of the scrapers towards my ML project, however I am a bit struglling with some of the scrapers due to firewalls on the websites and their lack of considering public API's.
+
+
+### Day 5: Sept 16, Thurusday
+
+**Today's Progress**: Researched capailities of potentially new system to implement, finished the API's of two more websites with their tests.
+
+**Thoughts**: The two new websites I couldn't Include the pictures due they're indivisually seperated. so in order to acquire the pictures I m going to have to write a script to get their pictures indivisually which would take some computing that I currently can't spare.
