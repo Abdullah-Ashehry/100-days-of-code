@@ -32,3 +32,10 @@
 **Today's Progress**: Researched capailities of potentially new system to implement, finished the API's of two more websites with their tests.
 
 **Thoughts**: The two new websites I couldn't Include the pictures due they're indivisually seperated. so in order to acquire the pictures I m going to have to write a script to get their pictures indivisually which would take some computing that I currently can't spare.
+
+
+### Day 6: Sept 17, Friday
+
+**Today's Progress**: Continued Building the Frontend of a small project of mine using React.
+
+**Thoughts**: Today I worked on Improving my codebase of React by refactoring using React Portals, Fragments and Ref's, In case of fragments they really help to reduce pressure on the DOM and remove redundant code as for Portals they just work on Improving your code as a developer.
