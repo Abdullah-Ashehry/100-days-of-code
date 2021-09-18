@@ -39,3 +39,11 @@
 **Today's Progress**: Continued Building the Frontend of a small project of mine using React.
 
 **Thoughts**: Today I worked on Improving my codebase of React by refactoring using React Portals, Fragments and Ref's, In case of fragments they really help to reduce pressure on the DOM and remove redundant code as for Portals they just work on Improving your code as a developer.
+
+
+
+### Day 7: Sept 17, Saturday
+
+**Today's Progress**: Learned about new React Hooks such as useEffect and useReducer.
+
+**Thoughts**: Today I worked on Improving my codebase of React by refactoring using useReducer and useEffect, I am building two simple project one is already built using simple react states, and the other using more advanced react hooks.
