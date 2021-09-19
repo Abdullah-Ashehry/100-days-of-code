@@ -42,8 +42,15 @@
 
 
 
-### Day 7: Sept 17, Saturday
+### Day 7: Sept 18, Saturday
 
 **Today's Progress**: Learned about new React Hooks such as useEffect and useReducer.
 
 **Thoughts**: Today I worked on Improving my codebase of React by refactoring using useReducer and useEffect, I am building two simple project one is already built using simple react states, and the other using more advanced react hooks.
+
+
+### Day 8: Sept 18, Sunday
+
+**Today's Progress**: The GDSC Finally got back to me about the landing page design starting to coming up with templates and testing them in React.
+
+**Thoughts**: I have been trying to Implement as apple feature they use in their products on their website which is this sort of transation I am trying to Implement.
