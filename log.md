@@ -49,8 +49,15 @@
 **Thoughts**: Today I worked on Improving my codebase of React by refactoring using useReducer and useEffect, I am building two simple project one is already built using simple react states, and the other using more advanced react hooks.
 
 
-### Day 8: Sept 18, Sunday
+### Day 8: Sept 19, Sunday
 
 **Today's Progress**: The GDSC Finally got back to me about the landing page design starting to coming up with templates and testing them in React.
 
 **Thoughts**: I have been trying to Implement as apple feature they use in their products on their website which is this sort of transation I am trying to Implement.
+
+
+### Day 9: Sept 20, Monday
+
+**Today's Progress**: Finished the components for the structure of the page and found a template for the CSS to continue structuring the page.
+
+**Thoughts**: I might have refactored the code too much, to the point it is harder to implement indivisual colors to the components by making all the colors styled from a main style page.
