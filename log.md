@@ -61,3 +61,10 @@
 **Today's Progress**: Finished the components for the structure of the page and found a template for the CSS to continue structuring the page.
 
 **Thoughts**: I might have refactored the code too much, to the point it is harder to implement indivisual colors to the components by making all the colors styled from a main style page.
+
+
+### Day 10: Sept 21, Tuesday
+
+**Today's Progress**: Almost finished everyting in the project for the GDSC Including all the basic styling, the rest of the styling and content is up to the rest of the team members.
+
+**Thoughts**: What really consumed my time was the logos, I need to improve my self in this area so I can grasp the fundementals of this area, Including Adobe photoshop and adobe illustrator.
