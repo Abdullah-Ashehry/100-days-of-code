@@ -68,3 +68,10 @@
 **Today's Progress**: Almost finished everyting in the project for the GDSC Including all the basic styling, the rest of the styling and content is up to the rest of the team members.
 
 **Thoughts**: What really consumed my time was the logos, I need to improve my self in this area so I can grasp the fundementals of this area, Including Adobe photoshop and adobe illustrator.
+
+
+### Day 11: Sept 22, Wedenesday
+
+**Today's Progress**: Today's progress was kind of low, I spent most of time trying to recreate a bug I got on my found when I deployed the website, however I couldn't replicate the bug in the responsive view to see what's causing it, the team leader approved my design and the team suggested a few minor edits such as padding, margins and colors as expected.
+
+**Thoughts**: I hate finding cross platform bugs, I am still not sure why I can't reproduce the bug in the PC so I can try to fix it.
