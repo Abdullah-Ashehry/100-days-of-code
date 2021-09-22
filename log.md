@@ -48,6 +48,7 @@
 
 **Thoughts**: Today I worked on Improving my codebase of React by refactoring using useReducer and useEffect, I am building two simple project one is already built using simple react states, and the other using more advanced react hooks.
 
+------------------------------------------------------ End of week 1
 
 ### Day 8: Sept 19, Sunday
 
