@@ -84,3 +84,11 @@
 **Today's Progress**: Today's progress consisted mostly of deeping diver into react, finding bugs and replicating them, also I started on a small project for a restaurant demo to prepare for my senior project.
 
 **Thoughts**: I should focus on mobile development for my project, the website is going to be simple.
+
+
+
+### Day 13: Sept 24, Friday
+
+**Today's Progress**: Today I took a brief introduction to R studio as part of one of my course, I already know python but I thought I would see what the hype about R really is.
+
+**Thoughts**: R has some really cool visualization libraries, they have more features than python I should look into it more.
