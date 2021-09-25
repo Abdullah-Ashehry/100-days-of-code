@@ -92,3 +92,12 @@
 **Today's Progress**: Today I took a brief introduction to R studio as part of one of my course, I already know python but I thought I would see what the hype about R really is.
 
 **Thoughts**: R has some really cool visualization libraries, they have more features than python I should look into it more.
+
+
+
+### Day 14: Sept 25, Saturday
+
+**Today's Progress**: Today I practised with Django with my scrapers I did three more websites to speed up data collection.
+
+**Thoughts**: Django has a more complex structure than Flask also it is slower, but comes with more features that I may want to use.
+
