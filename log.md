@@ -101,3 +101,11 @@
 
 **Thoughts**: Django has a more complex structure than Flask also it is slower, but comes with more features that I may want to use.
 
+
+
+### Day 15: Sept 26, Sunday. "Birthday"
+
+**Today's Progress**: Today I practised with Django with my scrapers I barely did one more website, its structure was inefficient and most of the images was troubled or there was an issue with the format, also even though their code was bad for some reason it had a good firewall but I got around it by using user id so I can scrape the data.
+
+**Thoughts**: website number 7 was definetly the most difficult I have had to scrape thus far.
+
