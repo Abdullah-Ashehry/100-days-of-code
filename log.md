@@ -109,3 +109,12 @@
 
 **Thoughts**: website number 7 was definetly the most difficult I have had to scrape thus far.
 
+
+
+
+### Day 16: Sept 27, Monday. 
+
+**Today's Progress**: Today I resumed my educatuion in Data Science / Business Analysis by experimienting in R studios, I learned about R's DSA and tried it out myself in R Studion and on PyCharm
+
+**Thoughts**: I liked R Studio more than Pycharm, in Pycharm it is only an extension.
+
