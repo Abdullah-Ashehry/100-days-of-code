@@ -117,3 +117,10 @@
 
 **Thoughts**: I liked R Studio more than Pycharm, in Pycharm it is only an extension.
 
+
+### Day 17: Sept 28, Tuesday. 
+
+**Today's Progress**: Worked on Improving the UI/UX for the club's website, also adding new content as well as Arabic language support.
+
+**Thoughts**: The translation library is a bit difficult to understand, I am going to have deep dive into the documentation in order to solve my issues.
+
