@@ -124,3 +124,11 @@
 
 **Thoughts**: The translation library is a bit difficult to understand, I am going to have deep dive into the documentation in order to solve my issues.
 
+
+
+### Day 18: Sept 29, Wedensday. 
+
+**Today's Progress**: Finally added arabic language support to the website, also removed and cleaned some redundant code.
+
+**Thoughts**: Tomorrow I am going to increase the SEO of my website from 85 to 100
+
