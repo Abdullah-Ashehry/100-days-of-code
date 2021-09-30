@@ -132,3 +132,11 @@
 
 **Thoughts**: Tomorrow I am going to increase the SEO of my website from 85 to 100
 
+
+
+### Day 19: Sept 30, Thursday. 
+
+**Today's Progress**: Today I created a new component to improve the UI of the bootcamp curriculum, also I increased the SEO to 92 instead of 85 but also the lowered the performance by 5 to 88.
+
+**Thoughts**: I hate the lighthouse, It is an awesowme tool but having to wait and maybe failing the test is a crushing feeling.
+
