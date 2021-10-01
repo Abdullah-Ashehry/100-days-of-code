@@ -140,3 +140,10 @@
 
 **Thoughts**: I hate the lighthouse, It is an awesowme tool but having to wait and maybe failing the test is a crushing feeling.
 
+
+### Day 20: Oct 1, Friday. 
+
+**Today's Progress**: Today I finally got the club's website to 100, but I lowered the accessability and SEO to 97 and 91 respctivly.
+
+**Thoughts**: I think I did all I can for this website and will be moving to my other projects until the content creators are finished.
+
