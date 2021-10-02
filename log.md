@@ -147,3 +147,12 @@
 
 **Thoughts**: I think I did all I can for this website and will be moving to my other projects until the content creators are finished.
 
+
+
+### Day 21: Oct 2, Saturday. 
+
+**Today's Progress**: Today I started developing my website, I found some open-source design and started implementing them as vanilla js.
+
+**Thoughts**: The plan is after finishing the vanilla js, I am going to develop it in React, Next.js, then I will move on to Angular.
+
+
