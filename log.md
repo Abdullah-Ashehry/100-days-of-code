@@ -156,3 +156,10 @@
 **Thoughts**: The plan is after finishing the vanilla js, I am going to develop it in React, Next.js, then I will move on to Angular.
 
 
+------------------------------------------------------ End of week 3
+
+### Day 22: Oct 3, Sunday. 
+
+**Today's Progress**: Today I continued developing my website, I finished the header, footer and some of the main content in vanilla js.
+
+**Thoughts**: Continuing following the plan. after finishing the vanilla js, I am going to develop it in React, Next.js, then I will move on to Angular.
