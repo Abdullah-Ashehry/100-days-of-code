@@ -163,3 +163,11 @@
 **Today's Progress**: Today I continued developing my website, I finished the header, footer and some of the main content in vanilla js.
 
 **Thoughts**: Continuing following the plan. after finishing the vanilla js, I am going to develop it in React, Next.js, then I will move on to Angular.
+
+
+
+### Day 23: Oct 4, Monday. 
+
+**Today's Progress**: Today I looked at Flutter for my project, I am still unsure whether to choose swift or Flutter.
+
+**Thoughts**: Flutter is an awesome language however when I worked on it about a year ago, Cupertino style wasn’t as supported as MaterialUI.
