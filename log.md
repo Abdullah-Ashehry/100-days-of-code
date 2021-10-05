@@ -171,3 +171,10 @@
 **Today's Progress**: Today I looked at Flutter for my project, I am still unsure whether to choose swift or Flutter.
 
 **Thoughts**: Flutter is an awesome language however when I worked on it about a year ago, Cupertino style wasn’t as supported as MaterialUI.
+
+
+### Day 24: Oct 5, Tuesday. 
+
+**Today's Progress**: Today I continued Implementing sample project with Flutter. such as the my calender update with a simple UI and functionality.
+
+**Thoughts**: We are still un decided about the mobile development for the project.
