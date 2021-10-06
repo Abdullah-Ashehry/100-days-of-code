@@ -178,3 +178,11 @@
 **Today's Progress**: Today I continued Implementing sample project with Flutter. such as the my calender update with a simple UI and functionality.
 
 **Thoughts**: We are still un decided about the mobile development for the project.
+
+
+
+### Day 25: Oct 6, Wednesday. 
+
+**Today's Progress**: Today I continued Implementing sample project with Flutter. Today I Implemented a basic expenses calculator.
+
+**Thoughts**: Flutter is cool.
