@@ -186,3 +186,11 @@
 **Today's Progress**: Today I continued Implementing sample project with Flutter. Today I Implemented a basic expenses calculator.
 
 **Thoughts**: Flutter is cool.
+
+
+
+### Day 26: Oct 7, Thursday. 
+
+**Today's Progress**: Today I took a deep dive into Flutter, Learned about the widget tree, render tree and the element tree. I also learned about the const keyword and servral other things. I also added landscape support to practise media queries for my application from yesterday.
+
+**Thoughts**: The efficency in the rebuild of flutter is great, espically if you know what you're doing. Also I learned how flutter tries to get its application to 60 FPS which I think was awesowme, but I started thinking how is the support for the new Iphone with the 120 fps.
