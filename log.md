@@ -201,3 +201,11 @@
 **Today's Progress**: Today I did a bit of refactoring with the portrait mode and landscape mode, to enhance readability and performance.
 
 **Thoughts**: Does the styling for the widgets for landscape and portaint have to be in the main.dart file always ?
+
+
+
+### Day 28: Oct 9, Saturday. 
+
+**Today's Progress**: Today I was barely able to finish the hour, I have a discrete math midterm on Monday that's driving me crazy, My work today mostly revolved around experiminting in styling inside flutter, I was wondering if I can make it look as much as possible as a swift applications.
+
+**Thoughts**: I have had a bit of success, however some of the cupertino stylings I couldn't get it directly so I had to get creative.
