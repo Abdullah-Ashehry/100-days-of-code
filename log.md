@@ -209,3 +209,12 @@
 **Today's Progress**: Today I was barely able to finish the hour, I have a discrete math midterm on Monday that's driving me crazy, My work today mostly revolved around experiminting in styling inside flutter, I was wondering if I can make it look as much as possible as a swift applications.
 
 **Thoughts**: I have had a bit of success, however some of the cupertino stylings I couldn't get it directly so I had to get creative.
+
+- 
+
+
+### Day 29,30: Oct 10,11, Saturday, Sunday. 
+
+**Today's Progress**: I have been coordinating with my team our code base for Flutter, we built a template and set up the folder structure in GitHub.
+
+**Thoughts**: It was a nightmare.
