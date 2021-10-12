@@ -213,8 +213,17 @@
 - 
 
 
-### Day 29,30: Oct 10,11, Saturday, Sunday. 
+### Day 29,30: Oct 10,11, Sunday, Monday. 
 
 **Today's Progress**: I have been coordinating with my team our code base for Flutter, we built a template and set up the folder structure in GitHub.
 
 **Thoughts**: It was a nightmare.
+
+
+------------------------------------------------------ End of week 4
+
+### Day 31: Oct 12, Tuesday. 
+
+**Today's Progress**: Today I tried to Implement the home pages of the team's application, however since the design and the requirements keeps changing I keep redoing and turned out really bad.
+
+**Thoughts**: I think I am going to stop and switch to the backend, and learn Django.
