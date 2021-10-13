@@ -227,3 +227,10 @@
 **Today's Progress**: Today I tried to Implement the home pages of the team's application, however since the design and the requirements keeps changing I keep redoing and turned out really bad.
 
 **Thoughts**: I think I am going to stop and switch to the backend, and learn Django.
+
+
+### Day 32: Oct 13, Wedenesday. 
+
+**Today's Progress**: Today I unfortuntly wasn't able to to start the backend, so I continued to practise on Flutter, by following a yotube video on a responsive Admin Panel on Flutter.
+
+**Thoughts**: I was delayed to a quiz in Database systems, hopefully it won't happen again.
