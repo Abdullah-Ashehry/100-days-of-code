@@ -234,3 +234,9 @@
 **Today's Progress**: Today I unfortuntly wasn't able to to start the backend, so I continued to practise on Flutter, by following a yotube video on a responsive Admin Panel on Flutter.
 
 **Thoughts**: I was delayed to a quiz in Database systems, hopefully it won't happen again.
+
+
+### Day 33: Oct 14, Thurusday. 
+
+**Today's Progress**: Today I got to work on an admin dashboard for flutter, I saw some open sourced online and got the chance to edit and Implement some of our featuers.
+**Thoughts**: The Authentication is going to be a bi***.
