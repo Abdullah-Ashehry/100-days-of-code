@@ -240,3 +240,12 @@
 
 **Today's Progress**: Today I got to work on an admin dashboard for flutter, I saw some open sourced online and got the chance to edit and Implement some of our featuers.
 **Thoughts**: The Authentication is going to be a bi***.
+
+
+
+### Day 34: Oct 15, Friday. 
+
+**Today's Progress**: Today I assigned the roles on Auth0 and did the basic testing on them.
+
+**Thoughts**: Authenticaion is in progress .
+
