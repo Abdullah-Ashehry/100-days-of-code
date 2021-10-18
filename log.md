@@ -249,3 +249,27 @@
 
 **Thoughts**: Authenticaion is in progress .
 
+
+
+### Day 35: Oct 16, Saturday. 
+
+**Today's Progress**: Today I tried to Implement a websocket secure to add a layer of security to my endpoints but unfortunately I haven’t succeeded yet.
+
+**Thoughts**: I am facing domain Issues so I switched from Heroku hopefully it will work.
+
+------------------------------------------------------ End of week 5
+
+
+### Day 36: Oct 17, Sunday. 
+
+**Today's Progress**: Today I finalized the initial roles and we are ready from an authentication state to build the rest of the backend.
+
+**Thoughts**: I am building a basic page in react to develop the custom fronted based on the JWT.
+
+
+### Day 37: Oct 19, Monday. 
+
+**Today's Progress**: Finished the code for the intro pages, using open sourced pages and mock up content to fit our project better and speed up the development time.
+
+**Thoughts**: Waiting on the design before these pages can be finalized.
+
