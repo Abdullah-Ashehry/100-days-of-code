@@ -273,3 +273,10 @@
 
 **Thoughts**: Waiting on the design before these pages can be finalized.
 
+
+### Day 38: Oct 20, Tuesday. 
+
+**Today's Progress**: Today I attempted to Integrated some code I found online, however I had to update my pubspec.yaml file and the application is currently not working
+
+**Thoughts**: I wanted to Integrate Introduction pages only.
+
