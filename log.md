@@ -280,3 +280,11 @@
 
 **Thoughts**: I wanted to Integrate Introduction pages only.
 
+
+
+### Day 39: Oct 21, Wedenesday. 
+
+**Today's Progress**: Today I continued to attempt to Integrated some code I found online, however I wasn't able, so I created a new repo and built a similar functionality around the Integrated account.
+
+**Thoughts**: I wanted to Implement a Concentric Transition for the Introduction pages only.
+
