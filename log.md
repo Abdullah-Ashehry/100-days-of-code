@@ -288,3 +288,11 @@
 
 **Thoughts**: I wanted to Implement a Concentric Transition for the Introduction pages only.
 
+
+
+### Day 40: Oct 22, Thurusday. 
+
+**Today's Progress**: Today I unfortuntly got a little done, I was focused on high fidelty design of my project, What I managed to do is to explore the features and customize it a bit for the Flutter Examples repo I found.
+
+**Thoughts**: I think by the end of next week I am going to open the teams to start the coding.
+
