@@ -296,3 +296,17 @@
 
 **Thoughts**: I think by the end of next week I am going to open the teams to start the coding.
 
+
+### Day 40: Oct 22, Friday. 
+
+**Today's Progress**: Today I unfortuntly got a little done, I was focused on high fidelty design of my project, What I managed to do is to explore the features and customize it a bit for the Flutter Examples repo I found.
+
+**Thoughts**: I think by the end of next week I am going to open the teams to start the coding.
+
+
+
+### Day 42: Oct 23, Saturday. 
+
+**Today's Progress**: Today I finally knew how to manipulate the repo to add some open sourced components to my flutter project, there was an issue appearantly with my access token, now I can really get going.
+
+**Thoughts**: Tommorow I am going to share the design with my team and assign starting pages.
