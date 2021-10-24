@@ -310,3 +310,11 @@
 **Today's Progress**: Today I finally knew how to manipulate the repo to add some open sourced components to my flutter project, there was an issue appearantly with my access token, now I can really get going.
 
 **Thoughts**: Tommorow I am going to share the design with my team and assign starting pages.
+
+
+
+### Day 43: Oct 24, Sunday. 
+
+**Today's Progress**: Today I explored with my team the basic code for the slogan pages, and perfected the authentication with some bugs.
+
+**Thoughts**: I also got to test some locks I have using Arduino
