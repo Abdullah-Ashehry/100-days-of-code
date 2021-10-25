@@ -318,3 +318,12 @@
 **Today's Progress**: Today I explored with my team the basic code for the slogan pages, and perfected the authentication with some bugs.
 
 **Thoughts**: I also got to test some locks I have using Arduino
+
+
+### Day 44: Oct 25, Monday. 
+
+**Today's Progress**: Today I had a meeting with my club so I am building a type form and editing the website in React.
+
+**Thoughts**: The edits are simple, just add a video area as well as a few modifications on the current components.
+
+
