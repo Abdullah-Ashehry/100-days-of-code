@@ -327,3 +327,11 @@
 **Thoughts**: The edits are simple, just add a video area as well as a few modifications on the current components.
 
 
+
+### Day 45: Oct 26, Tuesday. 
+
+**Today's Progress**: Today I got back to Flutter to finish up the hour, did some basic modifications Including trying a few new widgets.
+
+**Thoughts**: I barely finished the challenge for the day, I have two midterms in the next two days.
+
+
