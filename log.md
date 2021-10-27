@@ -335,3 +335,9 @@
 **Thoughts**: I barely finished the challenge for the day, I have two midterms in the next two days.
 
 
+### Day 46: Oct 27, Wednesday. 
+
+**Today's Progress**: Conutinuing my work from yesterday, using oen sourced Images I Implemented a no connection page as well as a loading page.
+
+**Thoughts**: I have a midterm tmw going back to study
+
