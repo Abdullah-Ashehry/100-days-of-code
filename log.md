@@ -341,3 +341,23 @@
 
 **Thoughts**: I have a midterm tmw going back to study
 
+
+### Day 46: Oct 27, Wednesday. 
+
+**Today's Progress**: Conutinuing my work from yesterday, using oen sourced Images I Implemented a no connection page as well as a loading page.
+
+**Thoughts**: I have a midterm tmw going back to study
+
+
+### Day 46: Oct 27, Wednesday. 
+
+**Today's Progress**: Conutinuing my work from yesterday, using oen sourced Images I Implemented a no connection page as well as a loading page.
+
+**Thoughts**: I have a midterm tmw going back to study
+
+
+### Day 49: Oct 30, Saturday. 
+
+**Today's Progress**: Today I participated in a challenge in Qwiklabs, I am pursuing a track for big data by finishing 5 quests, I will finish hopefully by tommorow
+
+**Thoughts**: The GCP for now is too easy and awesowme.
